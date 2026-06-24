@@ -1,0 +1,14 @@
+node_modules/
+.env
+.DS_Store
+*.log
+out.txt
+output_utf8.json
+user_out.json
+test-db.js
+test-user.js
+verify_hr.js
+test_ai.js
+test_enhanced_onboarding.js
+test_missed.js
+verify_training_engine.js
